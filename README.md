@@ -32,7 +32,8 @@ Example configuration shown:
 
 MMM-MarketLite was developed for a Raspberry Pi Zero W running a stable MagicMirror installation.
 
-The Raspberry Pi Zero and Zero W use a 32-bit ARMv6 processor architecture. While still capable of running MagicMirror reliably, they face increasing compatibility challenges with modern software.
+The Raspberry Pi Zero and Zero W use a 32-bit ARMv6 processor architecture. While still capable of running MagicMirror reliably, they face increasing compatibility challenges with modern software. 
+This module would also work on any other 32-bit or 64-bit MagicMirror platforms.  It is simple and also has the best backward compatibility.
 
 Examples include:
 
