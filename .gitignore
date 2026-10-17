@@ -1,0 +1,19 @@
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Node modules
+node_modules/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# VS Code local settings
+.vscode/
+
+# Development related files (AI etc)
+PROJECT_STATUS.md
